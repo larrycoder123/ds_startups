@@ -1,0 +1,277 @@
+name,link_website,city,region,founded_year,category,top_3_keywords,business_model,linkedin_handle,status
+DAIKI,dai.ki,Vienna,Vienna,2023,Software & Analytics,"['AI', 'compliance', 'governance']",B2B,daiki-ai,funding
+infrared.city,infrared.city,Vienna,Vienna,2023,Software & Analytics,"['intelligent', 'resilient', 'design']",platform,infrared-city,funding
+refinq,refinq.com,Vienna,Vienna,2023,Software & Analytics,"['Biodiversity', 'Ecosystems', 'Climate Risk']",B2B,refinq,funding
+blue auditor,blueauditor.com,Vienna,Vienna,2017,Software & Analytics,"['sustainability', 'real estate', 'management tool']",B2B,blue-auditor,funding
+Necture,necture.com,Vienna,Vienna,2015,Professional Services,"['fleets', 'sustainability', 'solutions']",B2B,necture,funding
+SchuBu Systems,schubu.systems,Vienna,Vienna,2020,e-commerce,"['interactive textbook', 'digital lessons', 'teaching material']",B2B,schubuwien,funding
+Boolee,boolee.io,Vienna,Vienna,2023,Software & Analytics,"['data analysis', 'SaaS', 'business analysts']",B2B,boolee,funding
+Glasskube,glasskube.eu,Vienna,Vienna,2023,Software & Analytics,"['infrastructure', 'automation', 'open source']",B2B,glasskube,funding
+silana,wearesilana.com,Vienna,Vienna,2022,Hardware,"['automated', 'fashion', 'production']",B2B,silana,funding
+HeldYn,heldyn.com,Vienna,Vienna,2022,Health,"['care', 'therapy', 'healthcare']",B2C,heldyn,funding
+Flinn Comply,flinncomply.com,Vienna,Vienna,2022,Health,"['medical device', 'compliance', 'efficiency']",B2B,,funding
+NXRT,nxrt.io,Wien,Vienna,2022,Software & Analytics,"['virtual reality', 'mixed reality', 'simulation']",B2B,nxrt,funding
+fynk,fynk.com,Vienna,Vienna,2022,Software & Analytics,"['contract', 'management', 'automate']",B2B,fynkcom,funding
+Proofcheck,proofcheck.io,Vienna,Vienna,2022,Software & Analytics,"['AI proofreading', 'collaborative workspace', 'content creators']",B2B,proofcheck,funding
+Heylog,heylog.com,Vienna,Vienna,2022,Mobility,"['logistics', 'dispatchers', 'communication']",B2B,heylog,funding
+HELLO INSIDE,helloinside.com,Vienna,Vienna,2021,Software & Analytics,"['self care', 'data-driven', 'personalized']",B2C,helloinside,funding
+Xperience,xperience.social,Vienna,Vienna,2021,Media & Entertainment,"['friends', 'activities', 'platform']",B2C,xperience-app,funding
+VIRIDAD,viridad.eu,Vienna,Vienna,2021,Software & Analytics,"['transparency', 'sustainable', 'assessment']",platform,viridad,funding
+trive studio,trive.studio,Vienna,Vienna,2021,Software & Analytics,"['startup', 'studio', 'solutions']",B2B,trive-studio,funding
+Schrankerl,schrankerl.at,Vienna,Vienna,2021,AgTech/FoodTech,"['catering', 'food delivery', 'office']",B2B,schrankerl,funding
+mjuks,mjuks.com,Vienna,Vienna,2021,Health,"['apparel', 'medical', 'professionals']",B2B,mjuks,funding
+HeartBeat.bio,heartbeat-bio.eu,Vienna,Vienna,2021,Health,"['drug discovery', 'cardiac organoids', 'heart failure']",B2B,heartbeatbio,funding
+imd BIOTECH,imdbiotech.com,Vienna,Vienna,2021,Health,"['biomolecule', 'detection', 'diagnostics']",platform,imd-biotech,funding
+PROPUP,propup.at,Vienna,Vienna,2021,Software & Analytics,"['real estate', 'transactions', 'platform']",B2B2C,propup-at,funding
+Shopstory,shopstory.ai,Vienna,Vienna,2020,Software & Analytics,"['SaaS', 'eCommerce', 'AI']",B2B,shopstoryai,funding
+25superstars,25superstars.com,Vienna,Vienna,2020,Media & Entertainment,"['affordable', 'content creators', 'engaging']",B2B2C,25superstars,funding
+Revo Foods,revo-foods.com,Vienna,Vienna,2020,AgTech/FoodTech,"['seafood', '3D Food Printing', 'plant-based']",B2C,revofoods,funding
+Helu.io,helu.io,Vienna,Vienna,2020,Software & Analytics,"['financial', 'data', 'reports']",B2B,helu-io,funding
+enspired,enspired-trading.com,Vienna,Vienna,2020,Energy,"['AI-driven', 'energy trading', 'self-learning models']",B2B,enspired,funding
+HelloBello,hellobello.de,Vienna,Vienna,2020,AgTech/FoodTech,"['dog food', 'customized', 'delivery']",B2C,hello-bello,funding
+TradersYard,tradersyard.com,Vienna,Vienna,2020,Professional Services,"['social trading', 'community', 'financial services']",B2C,tradersyard,funding
+Proxygen,proxygen.com,Vienna,Vienna,2020,Health,"['drugable', 'technology', 'novel']",B2B,proxygen,funding
+Mazing,mazingxr.com,Vienna,Vienna,2020,Software & Analytics,"['3D modelling', 'AR', 'e-commerce']",B2B,mazingxr,funding
+Kickscale,kickscale.com,Vienna,Vienna,2020,Software & Analytics,"['playbooks', 'sales teams', 'B2B']",B2B,kickscale,funding
+fairesLeben,fairesleben.at,Vienna,Vienna,2020,Software & Analytics,"['law firm', 'tenancy law', 'gambling law']",B2C,fairesleben-abc-gmbh,funding
+Digicust,digicust.com,Vienna,Vienna,2020,Software & Analytics,"['AI', 'customs', 'automation']",B2B,digicust,funding
+myReha,myreha.ai,Vienna,Vienna,2020,Software & Analytics,"['artificial intelligence', 'neurological research', 'therapy']",B2C,,funding
+Froots,froots.io,Vienna,Vienna,2020,FinTech/InsurTech,"['wealth', 'financial', 'goals']",B2C,froots-io,funding
+simplify.art,simplify.art,Vienna,Vienna,2020,Software & Analytics,"['art management', 'collection', 'easy']",B2C,simplify-art,funding
+Visplore,visplore.com,Vienna,Vienna,2020,Software & Analytics,"['visual analytics', 'data', 'interactive graphics']",B2B,visplore,funding
+Inoqo,inoqo.com,Vienna,Vienna,2020,Software & Analytics,"['environmental', 'social responsibility', 'grocery']",B2C,inoqo,funding
+Circly,circly.at,Vienna,Vienna,2020,Software & Analytics,"['Machine Learning', 'retail', 'demand forecasting']",B2B,circly,funding
+Interactive Paper,interactivepaper.com,Vienna,Vienna,2019,Software & Analytics,"['advertising', 'campaigns', 'customers']",B2B,interactivepaper,funding
+zerolens,zerolens.com,Vienna,Vienna,2019,Software & Analytics,"['virtual photo studio', '3D photo studio', 'marketing']",B2B,,funding
+MeetFox,meetfox.com,Wien,Vienna,2019,Software & Analytics,"['client meetings', 'scheduling', 'integrated video']",B2B,meetfox,funding
+World Data Lab,worlddata.io,Vienna,Vienna,2019,Software & Analytics,"['data', 'forecasting', 'consumer']",B2B,worlddatalab,funding
+Brickwise,brickwise.at,Vienna,Vienna,2019,Professional Services,"['real estate', 'investment', 'democratise']",B2C,brickwiseat,funding
+Bonrepublic,bonrepublic.com,Vienna,Vienna,2019,Software & Analytics,"['performance', 'recognition', 'management']",B2B,bonrepublic,funding
+a:head bio,aheadbio.com,Vienna,Vienna,2019,Health,"['drug discovery', 'cerebral organoids', 'human stem cells']",B2B,aheadbio,funding
+Gropyus,gropyus.com,Vienna,Vienna,2019,ConstructionTech/Green Building,"['sustainable', 'buildings', 'construction']",B2B,gropyus,funding
+Trackbar,trackbar.com,Vienna,Vienna,2019,Media & Entertainment,"['sensor system', 'digitizes', 'real-time feedback']",B2B,trackbar,funding
+SOMAREALITY,somareality.com,Vienna,Vienna,2019,Software & Analytics,"['digital biomarkers', 'eye tracking', 'HMD']",B2B,somareality,funding
+Wowflow,wowflow.com,Vienna,Vienna,2019,Software & Analytics,"['solution', 'teams', 'management']",B2B,wowflow,funding
+XUND,xund.ai,Vienna,Vienna,2018,Health,"['digital health assistant', 'medical device', 'healthcare services']",B2B,xund,funding
+hi.health,hihealth.de,Vienna,Vienna,2018,Health,"['health insurance', 'billing', 'user experience']",B2C,,funding
+VitreaLab,vitrealab.com,Vienna,Vienna,2018,Hardware,"['micro-fabrication', 'holographic displays', 'light channels']",B2B,vitrealab-gmbh,funding
+CASHY,cashy.at,Vienna,Vienna,2018,Professional Services,"['fintech', 'lending', 'pawn loan']",B2C,,funding
+Orderlion,orderlion.com,Vienna,Vienna,2018,AgTech/FoodTech,"['F&B', 'digitise', 'customer relationships']",B2B,orderlion,funding
+ImageBiopsy lab,imagebiopsy.com,Vienna,Vienna,2017,Software & Analytics,"['MSK', 'AI', 'platform']",B2B,imagebiopsy-lab,funding
+bsurance,bsurance.com,Vienna,Vienna,2017,FinTech/InsurTech,"['insurance', 'B2C', 'digital']",B2B2C,bsurance,funding
+Tubics,tubics.com,Vienna,Vienna,2017,Software & Analytics,"['YouTube', 'content', 'platform']",B2B,tubics,funding
+WisR,growwisr.com,Vienna,Vienna,2017,Other,"['Demografischen Wandel', 'Belegschaft', 'Ruhestandsalter']",B2B,,funding
+Mostly AI,mostly.ai,Vienna,Vienna,2017,Software & Analytics,"['privacy', 'big data', 'applications']",B2B,mostlyai,funding
+Allcyte,allcyte.com,Vienna,Vienna,2017,Health,"['personalised medicine', 'drug testing', 'AI-supported']",B2B,,funding
+Finmatics,finmatics.com,Vienna,Vienna,2017,Software & Analytics,"['accounting', 'automation', 'software']",B2B,finmaticsgmbh,funding
+contextflow,contextflow.com,Vienna,Vienna,2016,Software & Analytics,"['artificial intelligence', 'medical image analysis', 'radiology workflows']",B2B,contextflow,funding
+APEX Ventures,apex.ventures,Vienna,Vienna,2016,Software & Analytics,"['venture capital', 'start-ups', 'technology']",B2B,apex-vc,funding
+Kivu Technologies,kivu.tech,Vienna,Vienna,2016,Software & Analytics,"['innovation', 'technology', 'security']",B2B,kivu-technologies-gmbh-,funding
+Hydrogrid,hydrogrid.eu,Vienna,Vienna,2016,Energy,"['hydropower', 'automated IoT software', 'optimal production planning']",B2B,hydrogrid,funding
+Medicus AI,medicus.ai,Vienna,Vienna,2015,Software & Analytics,"['health', 'data', 'technology']",B2B2C,medicusai,funding
+ready2order,ready2order.com,Vienna,Vienna,2015,FinTech/InsurTech,"['POS', 'payment', 'solutions']",B2B,ready2order-gmbh,funding
+Rendity,rendity.com,Vienna,Vienna,2015,FinTech/InsurTech,"['real estate', 'investments', 'everyone']",B2C,rendity,funding
+SurveySensum,surveysensum.com,vienna,Vienna,2018,Software & Analytics,"['customer feedback', 'CX', 'business goals']",B2B,surveysensum,no_funding
+WasItAI,wasitai.com,Vienna,Vienna,2024,Software & Analytics,"['images', 'AI', 'origin']",B2B,wasitai,no_funding
+IDCanopy,idcanopy.com,Vienna,Vienna,2024,FinTech/InsurTech,"['KYC', 'platform', 'integration']",B2B,idcanopy,no_funding
+SpaceXpanse Multiverse,spacexpanse.org,Vienna,Vienna,2022,Software & Analytics,"['blockchain', 'GameFi', 'decentralized']",B2C,,no_funding
+PassionClass,passionclass.co,vienna,Vienna,2023,Education,"['learning', 'classes', 'community']",marketplace,passionclass,no_funding
+FragDasPDF,fragdaspdf.de,Vienna,Vienna,2023,Software & Analytics,"['AI-powered', 'PDF', 'interactive']",B2C,frag-das-pdf,no_funding
+tidalbase,tidalbase.com,Vienna,Vienna,2021,Software & Analytics,"['developers', 'learning', 'platform']",B2C,tidalbase,no_funding
+NO/FUZZ Marketing,nofuzzmarketing.com,Vienna,Vienna,2023,Software & Analytics,"['marketing', 'consultancy', 'business']",B2B,,no_funding
+Oscar Stories,oscarstories.com,Vienna,Vienna,2023,Software & Analytics,"['bedtime', 'stories', 'AI']",B2C,oscar-stories,no_funding
+myCulture,myculture.app,Vienna,Vienna,2022,Media & Entertainment,"['art', 'museums', 'recommendations']",B2B2C,myculture.app,no_funding
+FERTILABS,vilavit.com,Vienna,Vienna,2022,Health,"['fertility', 'neutraceuticals', 'pregnancy']",B2C,fertilabs-vilavit,no_funding
+Coachfident,coachfident.com,Vienna,Vienna,2022,Professional Services,"['coaching', 'development', 'career']",B2C,coachfident,no_funding
+prop.ID,prop.id,Vienna,Vienna,2022,PropTech,"['digitalizes', 'housing', 'meetings']",B2B,propid,no_funding
+reebuild,reebuild.com,Vienna,Vienna,2022,ConstructionTech/Green Building,"['building materials', 'procurement', 'construction']",platform,ree-build,no_funding
+Simplexx,simplexx.at,Vienna,Vienna,2022,Software & Analytics,"['online marketing', 'web projects', 'SEO']",B2B,simplexx-gmbh,no_funding
+Neolime,neolime.io,Vienna,Vienna,2022,Health,"['platform', 'sexual', 'creators']",platform,neolime,no_funding
+TUSECA,tuseca.com,vienna,Vienna,2022,PropTech,"['premium', 'co-ownership', 'holiday properties']",B2C,tuseca,no_funding
+NOUMEN,noumen.co,Vienna,Vienna,2021,Other,"['wellness', 'men', 'self-care']",B2C,noumen,no_funding
+Justmarkt,justmarkt.at,Vienna,Vienna,2021,Mobility,"['delivery', 'service', 'app']",B2C,justmarkt-at,no_funding
+etti.co,etti.co,Vienna,Vienna,2021,Software & Analytics,"['no-code', 'AI solutions', 'business growth']",platform,ettico,no_funding
+zone14,zone14.ai,Vienna,Vienna,2021,Media & Entertainment,"['AI', 'football', 'statistics']",B2B,zone14,no_funding
+Vloor,vloor.com,Vienna,Vienna,2021,PropTech,"['real estate', 'software', 'deep learning']",B2B,vloor,no_funding
+notarity,notarity.com,Vienna,Vienna,2021,Software & Analytics,"['notary', 'digital', 'platform']",platform,notarity,no_funding
+Miracl,miracl.at,Vienna,Vienna,2021,Professional Services,"['financial service', 'credit comparison', 'home-buying']",B2C,miracl1,no_funding
+Delphi Data Labs,delphidata.io,Vienna,Vienna,2021,Software & Analytics,"['data science', 'cleantech', 'market intelligence']",B2B,delphidata,no_funding
+CellEctric Biosciences,cellectric-biosciences.com,Vienna,Vienna,2021,Health,"['electrodynamics', 'biotechnology', 'cell manipulation']",B2B,cellectric-biosciences,no_funding
+captic.io,captic.io,Vienna,Vienna,2021,Professional Services,"['metaverse', 'platform', 'businesses']",B2B,captic-io,no_funding
+Auvaria,auvaria.com,Vienna,Vienna,2021,Professional Services,"['cloud', 'AWS', 'consulting']",B2B,auvaria,no_funding
+CamBuildr,cambuildr.com,Vienna,Vienna,2021,Software & Analytics,"['movement', 'campaigns', 'solution']",B2B,cambuildr,no_funding
+CyberACI,cyberaci.com,Vienna,Vienna,2021,Professional Services,"['cybersecurity', 'networks', 'hackers']",B2B,cyberaci,no_funding
+FUA Investment Club,fuainvestments.com,Vienna,Vienna,2021,FinTech/InsurTech,"['investment', 'network', 'portfolio']",B2C,fua-investment-club,no_funding
+Algonist Biotechnologies,algonist.com,Vienna,Vienna,2020,Health,"['biotechnology', 'chronic pain', 'therapeutics']",B2B,algonist-biotechnologies,no_funding
+Gamble-Verluste TS,gamble-verluste.at,Vienna,Vienna,2020,Media & Entertainment,"['Prozessfinanzierer', 'Rückforderung', 'Online-Casinos']",B2C,,no_funding
+TRUENDO Technologies,truendo.com,Wien,Vienna,2020,Software & Analytics,"['compliance', 'privacy', 'solutions']",B2B,truendo,no_funding
+Ordito,ordito.at,Vienna,Vienna,2020,Software & Analytics,"['Machine Learning', 'retail', 'demand forecasting']",B2B,ordito,no_funding
+Tech2impact,tech2impact.com,Vienna,Vienna,2020,Professional Services,"['impact tech', 'fundraising', 'network']",B2B,tech2impact,no_funding
+Splitbee,splitbee.io,Vienna,Vienna,2020,Software & Analytics,"['analytics', 'conversion', 'optimize']",B2B,splitbee,no_funding
+Posedio,posedio.com,Vienna,Vienna,2020,Professional Services,"['cloud', 'design', 'implementation']",B2B,posedio,no_funding
+nista.io,nista.io,Vienna,Vienna,2020,Software & Analytics,"['real estate', 'classifieds', 'buying']",B2C,nistaio,no_funding
+Nexyo,nexyo.io,Vienna,Vienna,2020,Software & Analytics,"['data', 'sharing', 'ecosystem']",B2B,nexyogmbh,no_funding
+Marswalk,marswalk.media,Atzgersdorf,Vienna,2020,Professional Services,"['viral ad campaigns', 'TikTok', 'brand awareness']",B2B,marswalk,no_funding
+Instigo,instigo.io,Vienna,Vienna,2020,Software & Analytics,"['digital marketing', 'AI modules', 'social media advertising']",B2B,instigoio,no_funding
+influData,infludata.com,Vienna,Vienna,2020,Professional Services,"['influencers', 'analysis', 'audiences']",B2B,infludata,no_funding
+Gurkerl.at,gurkerl.at,Vienna,Vienna,2020,Software & Analytics,"['grocery', 'fresh', 'online']",B2C,gurkerl,no_funding
+Competenz Lab,competenzlab.io,Vienna,Vienna,2020,Education,"['AI', 'CV', 'career']",B2C,competenz-lab,no_funding
+Cipacto,cipacto.com,Vienna,Vienna,2020,Hardware,"['digitisation', 'diesel', 'solution']",B2B,cipacto,no_funding
+Digital Schneiderei,digital-schneiderei.at,Vienna,Vienna,2020,Software & Analytics,"['customized', 'social media', 'SEO']",B2B,,no_funding
+Bank99,bank99.at,Vienna,Vienna,2020,Professional Services,"['digital bank', 'current accounts', 'savings']",B2C,bank99,no_funding
+Streemfire,streemfire.com,Vienna,Vienna,2020,Software & Analytics,"['independent', 'content', 'TV']",B2C,streemfiretv,no_funding
+Jobchain,jobchain.com,Vienna,Vienna,2020,FinTech/InsurTech,"['fintech', 'platform', 'recruitment']",B2B2C,jobchainofficial,no_funding
+Repeato,repeato.app,Vienna,Vienna,2020,Software & Analytics,"['test automation', 'computer vision', 'machine learning']",B2B,repeato,no_funding
+Calm/Storm Ventures,calmstorm.vc,Vienna,Vienna,2020,Health,"['founders', 'venture capital', 'entrepreneurship']",B2B,,no_funding
+Vollville,vollville.com,Vienna,Vienna,2020,Software & Analytics,"['empower', 'transformation', 'customers']",B2B,vollville,no_funding
+WeDress Collective,wedresscollective.com,Vienna,Vienna,2020,Other,"['wardrobe', 'sharing', 'sustainability']",B2C,wedress-collective,no_funding
+Asigmo,asigmo.com,Vienna,Vienna,2020,Software & Analytics,"['data science', 'fellowship', 'career']",B2B2C,asigmo-data-science,no_funding
+Sophia Advisory,hallosophia.com,Vienna,Vienna,2020,FinTech/InsurTech,"['marketplace', 'advice', 'experts']",marketplace,sophiaadvisory,no_funding
+Sparcs,sparcs.app,Vienna,Vienna,2020,Media & Entertainment,"['social network', 'healthy', 'lifestyle']",B2C,sparcsapp,no_funding
+LawStar,lawstar.at,Vienna,Vienna,2020,Education,"['legal expertise', 'learning platform', 'community']",B2C,lawstar,no_funding
+TeleDoc,myteledoc.app,Vienna,Vienna,2020,Health,"['telemedicine', 'consultation', 'online']",B2C,teledoc-holding-gmbh,no_funding
+Smart Inspection,smartinspection.eu,Vienna,Vienna,2020,Software & Analytics,"['drones', 'inspection', 'maintenance']",B2B,smartinspection,no_funding
+kontractory,kontractory.com,Vienna,Vienna,2020,Software & Analytics,"['legal tech', 'contract software', 'service']",B2B,kontractory-by-dwp,no_funding
+Glacier,glacier.eco,Vienna,Vienna,2020,Professional Services,"['climate', 'action', 'community']",B2B,,no_funding
+Gateway Labs,gatewaylabs.co,Vienna,Vienna,2020,Software & Analytics,"['product', 'users', 'impact']",B2B,gatewaylabs,no_funding
+VARS,vars.at,Vienna,Vienna,2019,Software & Analytics,"['Extended Realities', 'XR experiences', 'immersive technologies']",B2B,vars-vienna,no_funding
+Localrydes,localrydes.com,Wien,Vienna,2019,FinTech/InsurTech,"['marketplace', 'taxi', 'reservation']",marketplace,localrydes,no_funding
+VisualSearch,visualsearch.at,Vienna,Vienna,2019,Professional Services,"['digital platform', 'recommendation', 'shopping experience']",B2B,visualsearch-gmbh,no_funding
+VIPASO,vipaso.io,Vienna,Vienna,2019,FinTech/InsurTech,"['mobile payments', 'payment solutions', 'Vienna']",B2B,vipaso-payments,no_funding
+Viesure Innovation Center,viesure.io,Vienna,Vienna,2019,Professional Services,"['insurance', 'customer-centric', 'solutions']",B2B,viesure,no_funding
+vibe moves you,vibemovesyou.com,Vienna,Vienna,2019,Software & Analytics,"['mobility', 'electric', 'models']",B2C,vibemovesyou,no_funding
+TTTech Industrial,tttech-industrial.com,Vienna,Vienna,2019,Software & Analytics,"['industrial IoT', 'edge computing', 'automation']",B2B,tttech-industrial,no_funding
+thinkers.ai,thinkers.ai,Vienna,Vienna,2019,Software & Analytics,"['search engine', 'machine learning', 'context search']",B2C,thinkers-ai,no_funding
+Staymate,getstaymate.com,Vienna,Vienna,2019,Professional Services,"['guest communication', 'digital hotel assistant', 'personalized offers']",B2B,getstaymate,no_funding
+Sprad,sprad.io,Vienna,Vienna,2019,Software & Analytics,"['employee referrals', 'recruiting software', 'new hires']",B2B,sprad-io,no_funding
+SeaMoX Information Technologies,seamox.com,Vienna,Vienna,2019,Software & Analytics,"['software', 'custom', 'IT-Services']",B2B,seamox,no_funding
+Runple,runple.com,Vienna,Vienna,2019,Software & Analytics,"['ERP', 'retail', 'e-commerce']",B2B,runple,no_funding
+OTEREA,oterea.com,Vienna,Vienna,2019,Software & Analytics,"['real estate', 'advisory', 'sustainability']",B2B,oterea,no_funding
+Novasign,novasign.at,Vienna,Vienna,2019,Health,"['machine learning', 'biotech', 'bioprocess development']",B2B,novasign,no_funding
+Legitary,legitary.com,Vienna,Vienna,2019,Software & Analytics,"['AI', 'royalties', 'music']",B2B,legitary,no_funding
+Imperion,imperion.eu,Vienna,Vienna,2019,Professional Services,"['software', 'investment', 'automation']",B2B,imperion,no_funding
+Gradient Zero,gradient0.com,Vienna,Vienna,2019,Software & Analytics,"['machine learning', 'solutions', 'contact']",B2B,gradient-zero,no_funding
+Flight Levels Academy,flightlevels.io,Vienna,Vienna,2019,Professional Services,"['Agile', 'transformation', 'collaboration']",B2B,flight-levels,no_funding
+Enery,enery.energy,Vienna,Vienna,2019,Energy,"['renewable', 'energy', 'solar']",B2B,enery,no_funding
+Dreamwaves,dreamwaves.io,Vienna,Vienna,2019,Software & Analytics,"['audio', 'navigation', 'technology']",B2C,dreamwaves,no_funding
+condignum,condignum.com,Vienna,Vienna,2019,Software & Analytics,"['cyber security', 'risk management', 'compliance']",B2B,condignum,no_funding
+fiskaly,fiskaly.com,Vienna,Vienna,2019,Professional Services,"['digital signatures', 'e-receipts', 'fiscalization']",B2B,fiskaly,no_funding
+QUANTRO Therapeutics,quantro-tx.com,Vienna,Vienna,2019,Health,"['cancer', 'drug discovery', 'transcription factors']",B2B,quantro-therapeutics,no_funding
+S1Seven,s1seven.com,Vienna,Vienna,2019,Software & Analytics,"['sourcing', 'software', 'supply chain']",B2B,s1seven,no_funding
+Templeton Apus,templetonapus.com,Vienna,Vienna,2019,Health,"['intelligence', 'platform', 'healthcare']",B2B,,no_funding
+Autowhale,autowhale.net,Vienna,Vienna,2019,Software & Analytics,"['cryptocurrency', 'liquidity', 'trading']",B2B2C,autowhale,no_funding
+Skillmill,skillmill.com,Vienna,Vienna,2018,Media & Entertainment,"['creatives', 'platform', 'opportunities']",platform,skillmill-co,no_funding
+myBioma,mybioma.com,Vienna,Vienna,2018,Health,"['microbiome', 'diagnostics', 'self-tests']",B2C,,no_funding
+Madgicx,madgicx.com,Viena,Vienna,2018,Software & Analytics,"['E-commerce', 'ads', 'AI']",B2B,madgicxnow,no_funding
+Pocket Cocktails,pocket-cocktails.com,Vienna,Vienna,2018,Software & Analytics,"['luxury', 'cocktails', 'customize']",B2C,pocketcocktails,no_funding
+Bimspot,bimspot.io,Vienna,Vienna,2018,Software & Analytics,"['BIM', 'collaboration', 'technology']",B2B,bimspot,no_funding
+TTTech Auto,tttech-auto.com,Vienna,Vienna,2018,Mobility,"['automated driving', 'safety', 'technology solutions']",B2B,tttech-auto,no_funding
+Point of New,pointofnew.at,Vienna,Vienna,2017,Professional Services,"['Creativity', 'Innovation', 'Coaching']",B2B,pointofnew,no_funding
+LAMA App,lama-app.com,Vienna,Vienna,2017,Other,"['experts', 'content', 'advertising']",B2C,lama-app,no_funding
+Startaparat,startaparat.com,Vienna,Vienna,2017,Professional Services,"['startups', 'creativity', 'innovation']",B2B,startaparat,no_funding
+SHARK-Bike,shark-bike.com,Vienna,Vienna,2017,Mobility,"['sustainable mobility', 'SHARK-Bike', 'carbon footprint']",B2C,shark-bike,no_funding
+Waterdrop,waterdrop.com,Vienna,Vienna,2016,AgTech/FoodTech,"['micro drink', 'sugar-free', 'vitamins']",B2C,waterdrop-official,no_funding
+Fermify,fermify.org,Gerasdorf Bei Wien,Lower Austria,2021,Health,"['microorganisms', 'production', 'cheese']",B2B,fermify,funding
+Arkeon Biotechnologies,arkeon.bio,Tulln,Lower Austria,2021,Health,"['CO2', 'food', 'technology']",B2B,arkeon-bio,funding
+Lignovations,lignovations.com,"Tulln, Austria",Lower Austria,2021,Software & Analytics,"['sustainability', 'biomass', 'lignin']",B2B,lignovations,funding
+SAN Group,san-group.com,Herzogenburg,Lower Austria,2020,Health,"['biotechnology', 'investments', 'global']",B2B,sangroup,funding
+Wood Space,woodspace.com,Niederosterreich,Lower Austria,2019,ConstructionTech/Green Building,"['modular', 'buildings', 'sustainable']",B2B,,funding
+Sarcura,sarcura.com,Klosterneuburg,Lower Austria,2019,Health,"['personalized cell therapies', 'manufacturing', 'semiconductor technology']",B2B,sarcura,funding
+Warrify,warrify.com,Klosterneuburg,Lower Austria,2019,Software & Analytics,"['receipt', 'customer', 'retailers']",B2B,warrify,funding
+Greenwood-Power,greenwood-power.com,Rohrau,Lower Austria,2019,Energy,"['Smart Grid', 'sensors', 'energy production']",B2B,greenwoodpower-smartsensors,funding
+boomerank,boomerank.io,Wolkersdorf im Weinviertel,Lower Austria,2017,Software & Analytics,"['eCommerce', 'AI', 'performance']",B2B,,funding
+Enpulsion,enpulsion.com,"Wiener Neustadt, Niederosterreich",Lower Austria,2016,Mobility,"['electric propulsion', 'satellites', 'technology']",B2B,enpulsion,funding
+Hyrox Training Plans,hyroxtrainingplans.com,Ober-wolfsbach,Lower Austria,2024,Health,"['training plans', 'Hyrox', 'athletes']",platform,,no_funding
+Integrysign,integrysign.com,Wiener Neustadt,Lower Austria,2020,Software & Analytics,"['fraud', 'authentication', 'biometrics']",B2B,integrysign,no_funding
+Veroo,veroo.io,Wiener Neudorf,Lower Austria,2019,Software & Analytics,"['AI cloud software', 'GPS tracking', 'supply chain optimization']",B2B,veroo,no_funding
+SUPPLiot,suppliot.eu,Niederosterreich,Lower Austria,2019,Mobility,"['ERP', 'SME', 'business processes']",B2B,suppliot,no_funding
+STORE ROOM,storeroom.at,Brunn Am Gebirge,Lower Austria,2019,Software & Analytics,"['storage', 'smart', 'digitization']",B2C,store-room-gmbh,no_funding
+DealMatrix,dealmatrix.com,Wöllersdorf,Lower Austria,2015,Recruitment,"['dealflow', 'platform', 'insights']",B2B,dealmatrix,no_funding
+SimVenture,simventure.at,Linz,Upper Austria,2021,Health,"['digital twins', 'sports', 'simulation']",B2B,simventure-gmbh,funding
+Seven Bel,sevenbel.com,Linz,Upper Austria,2018,Software & Analytics,"['measurement', 'technology', 'sound']",other,seven-bel-soundscanner,funding
+Ohana,tryohana.com,Sankt Georgen An Der Gusen,Upper Austria,2022,Software & Analytics,"['parenting', 'app', 'digital']",B2C,ohana-software-gmbh,funding
+Sendance,sendance.at,Linz,Upper Austria,2021,Hardware,"['soft sensor technology', 'smart wearables', 'manufacturers']",B2B,sendance-gmbh,funding
+afreshed,afreshed.at,Linz,Upper Austria,2021,Software & Analytics,"['food waste', 'Retterbox', 'organic']",B2C,afreshed,funding
+Findustrial,findustrial.io,Schörfling,Upper Austria,2020,FinTech/InsurTech,"['financial platform', 'sustainability', 'digital ecosystem']",B2B,findustrial-gmbh,funding
+Danube Dynamics,danube-dynamics.at,Linz,Upper Austria,2020,Software & Analytics,"['autonomous', 'sustainable', 'intelligent']",B2B,danube-dynamics,funding
+Carbon Cleanup,carbon-cleanup.com,Linz,Upper Austria,2020,Software & Analytics,"['Carbon Cleanup', 'software', 'recycling']",B2B,carbon-cleanup-gmbh,funding
+hae.sh,hae.sh,Linz,Upper Austria,2020,Software & Analytics,"['audit', 'blockchain', 'software']",B2B,,funding
+triply,triply.at,Linz,Upper Austria,2018,Software & Analytics,"['mobility', 'data', 'transport']",B2B,triply-at,funding
+StreamTV Media,stream.tv,Steyr,Upper Austria,2018,Media & Entertainment,"['live streaming', 'media', 'products']",B2C,streamtv-media-gmbh,funding
+Storyblok,storyblok.com,Linz,Upper Austria,2017,Media & Entertainment,"['headless CMS', 'content experiences', 'API']",B2B,storyblok,funding
+Fretello,fretello.com,Linz,Upper Austria,2016,Software & Analytics,"['guitar', 'lessons', 'beginners']",B2C,fretello,funding
+TeamEcho,teamecho.com,Linz,Upper Austria,2015,Software & Analytics,"['feedback', 'teams', 'solutions']",B2B,teamecho-gmbh,funding
+OneTask,onetask.me,Selker,Upper Austria,2024,Software & Analytics,"['AI', 'to-do', 'productivity']",B2C,,no_funding
+Easy Month End,easymonthend.com,Giga,Upper Austria,2024,FinTech/InsurTech,"['month-end close', 'financial reporting', 'collaboration']",B2B,easy-month-end,no_funding
+Wiro Consulting,wiroconsulting.at,Linz,Upper Austria,2023,Professional Services,"['web technology', 'e-commerce', 'customized solutions']",B2B,wiroconsulting,no_funding
+HEYRISE,heyrise.com,Wels,Upper Austria,2022,Professional Services,"['fitness', 'health', 'prevention']",B2B,heyrise,no_funding
+Windpuls,windpuls.com,Linz,Upper Austria,2021,Hardware,"['wind measurement', 'sensors', 'IT solutions']",B2B,windpuls,no_funding
+Daphos,daphos.ai,Linz,Upper Austria,2021,Software & Analytics,"['resource management', 'healthcare', 'analytics']",B2B,daphos-gmbh,no_funding
+NOVEM Gold,novemgold.com,Linz,Upper Austria,2020,FinTech/InsurTech,"['blockchain', 'gold', 'stores']",B2C,novemgold,no_funding
+Redem,redem.io,Linz,Upper Austria,2020,Software & Analytics,"['AI', 'quality assurance', 'data cleansing']",B2B,redem-technologies,no_funding
+S-A-M Technologies,s-a-m.tech,Perg,Upper Austria,2020,Software & Analytics,"['agriculture', 'robotics', 'AI']",B2B,s-a-m-tech,no_funding
+devjobs.at,devjobs.at,Linz,Upper Austria,2019,Recruitment,"['Jobportal', 'Programmierer', 'IT-Jobs']",B2C,devjobs-at,no_funding
+Celantur,celantur.com,Linz,Upper Austria,2019,Software & Analytics,"['privacy-tech', 'anonymization', 'GDPR']",B2B,celantur,no_funding
+Qapture,qapture.at,Linz,Upper Austria,2019,Software & Analytics,"['digital twins', 'reality capture', 'laser scanning']",B2B,qapture,no_funding
+Lunixo,lunixo.com,Tiefgraben,Upper Austria,2019,Software & Analytics,"['digital signage', 'multimedia player', 'content management']",B2B,lunixo-digital-signage,no_funding
+ForgTin,forgtin.com,Braunau Am Inn,Upper Austria,2019,Health,"['tinnitus', 'medical device', 'noise reduction']",B2C,,no_funding
+Eberhart,eberhartgmbh.com,Micheldorf,Upper Austria,2019,Software & Analytics,"['valves', 'pesticides', 'artificial intelligence']",B2B,eberhartgmbh,no_funding
+Digital Moulds,digitalmoulds.com,Sierning,Upper Austria,2019,Software & Analytics,"['Mould', 'monitoring', 'solutions']",B2B,digital-moulds,no_funding
+Coders.Bay,codersbay.at,Linz,Upper Austria,2019,Software & Analytics,"['training', 'coding', 'software']",B2C,coders-bay,no_funding
+SYN TRAC,syn-trac.at,Bad Goisern,Upper Austria,2019,Mobility,"['vehicle', 'safety', 'comfort']",B2B,syn-trac-gmbh,no_funding
+hello again,helloagain.at,Leonding,Upper Austria,2017,Software & Analytics,"['customer loyalty', 'digital', 'SMEs']",B2B,hello-again-gmbh,no_funding
+Testify,testify.io,Linz,Upper Austria,2017,Software & Analytics,"['digitization', 'quality assurance', 'checklist']",B2B,testify-gmbh,no_funding
+LAMIE,lamie-direct.com,Linz,Upper Austria,2015,FinTech/InsurTech,"['embedded insurance', 'Telcosurance', 'digital ecosystem']",B2B2C,lamie-direkt,no_funding
+Metaloop,metaloop.eu,Graz,Styria,2022,FinTech/InsurTech,"['scrap trading', 'metal recycling', 'trade discovery']",B2B,metaloop,funding
+Luminous Labs,luminousred.com,Graz,Styria,2021,Health,"['longevity', 'biohacking', 'light-centered']",B2C,,funding
+Econutri,econutri.com,Graz,Styria,2021,Health,"['sustainable', 'protein', 'CO2']",B2B,econutri-gmbh,funding
+blackshark.ai,blackshark.ai,Graz,Styria,2020,Software & Analytics,"['satellite imagery', 'machine learning', 'feature detection']",B2B,blackshark-ai,funding
+Seasy,seasy.at,Graz,Styria,2020,Professional Services,"['marina', 'sailing', 'booking']",B2B2C,seasyofficial,funding
+Joinpoints,joinpoints.net,Graz,Styria,2019,Software & Analytics,"['workflow', 'platform', 'neural networks']",B2B,joinpoints,funding
+Leftshift One,leftshiftone.com,Graz,Styria,2017,Software & Analytics,"['Artificial Intelligence', 'Generative AI', 'customized AI solutions']",B2B,leftshift-one,funding
+Schrott24,schrott24.de,Graz,Styria,2016,Software & Analytics,"['scrap metal', 'circular economy', 'technology']",B2B,schrott-24,funding
+clone:it,cloneit.at,Graz,Styria,2023,ConstructionTech/Green Building,"['digital clones', 'construction site', 'civil engineering']",B2B,clone-it,no_funding
+slamstr,slamstr.com,Graz,Styria,2023,Software & Analytics,"['tennis', 'app', 'scoring']",B2C,slamstr-gmbh,no_funding
+personly,personly.com,Graz,Styria,2022,Software & Analytics,"['matching', 'chat', 'personal']",B2C,personly-com,no_funding
+SHOMUGO,shomugo.at,Graz,Styria,2022,e-commerce,"['e-commerce', 'marketplace', 'online store']",B2B2C,shomugo,no_funding
+kutschi.consulting,kutschi.consulting,Voitsberg,Styria,2021,Professional Services,"['consulting', 'digitalization', 'transformation']",B2B,kutschi-consulting,no_funding
+Testiny,testiny.io,Graz,Styria,2021,Software & Analytics,"['test management', 'software', 'modern']",B2B,testiny,no_funding
+Beyond Now,beyondnow.com,Premstatten,Styria,2021,Software & Analytics,"['digital platform', 'SaaS', 'monetizing 5G']",B2B,beyondnowplatforms,no_funding
+Factinsect,factinsect.com,Graz,Styria,2020,Professional Services,"['fact-check', 'misinformation', 'artificial intelligence']",B2B,,no_funding
+atmoky,atmoky.com,Graz,Styria,2020,Media & Entertainment,"['spatial audio', 'hyper-realistic', 'software']",B2B,atmoky,no_funding
+Probando,probando.io,Graz,Styria,2020,Health,"['therapies', 'studies', 'health']",platform,probandostudies,no_funding
+Trever,trever.io,Graz,Styria,2019,Software & Analytics,"['fintech', 'digital assets', 'financial institutions']",B2B,treverio,no_funding
+SkinScreener,skinscreener.com,Graz,Styria,2019,Software & Analytics,"['skin cancer', 'risk assessment', 'AI']",B2C,skinscreener,no_funding
+BirdShades,birdshades.com,Leoben,Styria,2019,Professional Services,"['bird protection', 'window film', 'collisions']",B2B,birdshades,no_funding
+ARTI,arti-robots.com,Graz,Styria,2019,Mobility,"['robotic solutions', 'urban logistics', 'autonomous mobile robots']",B2B,arti-robots,no_funding
+Clean Code Software,cleancode-software.com,Raaba,Styria,2019,Professional Services,"['development', 'quality', 'performance']",B2B,cleancode-software,no_funding
+myAcker,myacker.com,Spittal an der Drau,Carinthia,2018,AgTech/FoodTech,"['online garden', 'organic harvests', 'vegetable fans']",B2C,myacker,funding
+AlbaJet Charter,albajet.com,Krumpendorf,Carinthia,2019,Software & Analytics,"['private jet', 'booking', 'charter']",platform,albajet,no_funding
+OE Service,oeservice.eu,Klagenfurt,Carinthia,2019,Software & Analytics,"['management systems', 'compliance', 'administrative requirements']",B2B,oeservice,no_funding
+Dejure Technologies,dejuretechnologies.com,Klagenfurt,Carinthia,2019,Software & Analytics,"['IT consultancy', 'software development', 'Machine Learning']",B2B,,no_funding
+SynoptiCons,synopticons.com,Klagenfurt,Carinthia,2019,Professional Services,"['quality', 'clients', 'responsibility']",B2B,synopticons,no_funding
+Cleanhearing,cleanhearing.com,Spittal an der Drau,Carinthia,2017,Health,"['tinnitus', 'therapy', 'technology']",B2C,cleanhearing,no_funding
+Audvice,audvice.com,Salzburg,Salzburg,2018,Software & Analytics,"['voice messages', 'information', 'corporate']",B2B,,funding
+SAGLY,sagly.at,Salzburg,Salzburg,2021,Health,"['mountain biking', 'suspension', 'app']",B2C,sagly,no_funding
+Mursall Active Coating,active-coating.com,Oberalm,Salzburg,2020,Health,"['photo catalysis', 'coating', 'indoor air']",B2B,,no_funding
+sproof,sproof.io,Puch Bei Hallein,Salzburg,2019,Software & Analytics,"['document signing', 'digital signature', 'trusted']",B2B,sproof,no_funding
+Chatcloud,chatcloud.net,Saalfelden,Salzburg,2019,Software & Analytics,"['chat rooms', 'real-time communication', 'business']",B2B,therealchatcloud,no_funding
+Alveri,alveri.at,Salzburg,Salzburg,2019,Hardware,"['mobility', 'alternative drives', 'application']",B2C,alveri,no_funding
+xuuluux,xuuluux.com,Salzburg,Salzburg,2019,Software & Analytics,"['interim management', 'advising', 'manufacturing']",B2B,xuuluux,no_funding
+Hololight,hololight.com,Innsbruck,Tyrol,2015,Software & Analytics,"['Augmented Reality', 'Virtual Reality', 'Industrial Metaverse']",B2B,hololightgmbh,funding
+MADiscover,madiscover.com,Innsbruck,Tyrol,2019,Software & Analytics,"['M&A', 'AI', 'analytics']",B2B,madiscover,funding
+DeepOpinion,deepopinion.ai,Innsbruck,Tyrol,2019,Software & Analytics,"['automation', 'B2B', 'SaaS']",B2B,deepopinion-ai,funding
+Innerspace,innerspace.eu,Wattens,Tyrol,2017,Software & Analytics,"['training', 'virtual reality', 'life science']",B2B,vrinnerspace,funding
+Revitalyze,revitalyze.io,Innsbruck,Tyrol,2022,ClimateTech/GreenTech/CleanTech,"['greentech', 'circular construction', 'reuse']",platform,revitalyze-io,no_funding
+Futureweb,futureweb.at,Sankt Johann,Tyrol,2021,Professional Services,"['web hosting', 'website creating', 'domain services']",B2B,futureweb-gmbh-at,no_funding
+Explore with us,explorewithus.eu,Innsbruck,Tyrol,2021,Professional Services,"['travel', 'Europe', 'agency']",B2C,explore-with-us-gmbh,no_funding
+MXR Tactics,mxr-tactics.com,Kufstein,Tyrol,2020,Software & Analytics,"['Mixed Reality', 'training', 'tacticians']",B2B,mxr-tactics,no_funding
+Green Cloud Nine,greencloudnine.com,Jenbach,Tyrol,2020,Software & Analytics,"['sustainable', 'marketplace', 'environmentally-friendly']",marketplace,green-cloud-nine,no_funding
+Read-Coop,readcoop.eu,Innsbruck,Tyrol,2019,Software & Analytics,"['historical documents', 'handwritten text recognition', 'keyword spotting']",B2B,,no_funding
+CoLivi,colivi.com,Gasse,Tyrol,2019,PropTech,"['shared economy', 'flexibility', 'housing']",B2C,colivi,no_funding
+INNIO Group,innio.com,Tirol,Tyrol,2018,Energy,"['gas engines', 'power generation', 'renewable solutions']",B2B,innio-group,no_funding
+e.battery systems,e-batterysystems.com,Wolfurt,Vorarlberg,2019,Hardware,"['battery', 'technology', 'electronics']",B2B,e-batterysystems,funding
+F-Technologies,f-technologies.com,Lustenau,Vorarlberg,2021,Hardware,"['business', 'solutions', 'innovation']",B2B,f-technologies,no_funding
+Gleap,gleap.io,Dornbirn,Vorarlberg,2020,Software & Analytics,"['customer feedback', 'tools', 'engage']",B2B,gleap,no_funding
+Digando,digando.com,Dornbirn,Vorarlberg,2019,Professional Services,"['digital marketplace', 'construction equipment', 'rental']",marketplace,digando,no_funding
+OuMaiGou,oumaigou.eu,Parndorf,,2019,e-commerce,"['European products', 'Chinese consumers', 'E-Commerce']",B2C,oumaigou,no_funding

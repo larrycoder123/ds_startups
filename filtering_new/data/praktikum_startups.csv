@@ -1,0 +1,26 @@
+,name,link_website,region,category,top_3_keywords,business_model,age,status
+0,DAIKI,dai.ki,Vienna,Software & Analytics,"['AI', 'compliance', 'governance']",B2B,2,funding
+1,infrared.city,infrared.city,Vienna,Software & Analytics,"['intelligent', 'resilient', 'design']",platform,2,funding
+2,refinq,refinq.com,Vienna,Software & Analytics,"['Biodiversity', 'Ecosystems', 'Climate Risk']",B2B,2,funding
+3,Boolee,boolee.io,Vienna,Software & Analytics,"['data analysis', 'SaaS', 'business analysts']",B2B,2,funding
+4,Glasskube,glasskube.eu,Vienna,Software & Analytics,"['infrastructure', 'automation', 'open source']",B2B,2,funding
+5,NXRT,nxrt.io,Vienna,Software & Analytics,"['virtual reality', 'mixed reality', 'simulation']",B2B,3,funding
+6,fynk,fynk.com,Vienna,Software & Analytics,"['contract', 'management', 'automate']",B2B,3,funding
+7,PROPUP,propup.at,Vienna,Software & Analytics,"['real estate', 'transactions', 'platform']",B2B2C,4,funding
+8,Shopstory,shopstory.ai,Vienna,Software & Analytics,"['SaaS', 'eCommerce', 'AI']",B2B,5,funding
+9,Helu.io,helu.io,Vienna,Software & Analytics,"['financial', 'data', 'reports']",B2B,5,funding
+10,Kickscale,kickscale.com,Vienna,Software & Analytics,"['playbooks', 'sales teams', 'B2B']",B2B,5,funding
+11,Digicust,digicust.com,Vienna,Software & Analytics,"['AI', 'customs', 'automation']",B2B,5,funding
+12,Froots,froots.io,Vienna,FinTech/InsurTech,"['wealth', 'financial', 'goals']",B2C,5,funding
+13,Visplore,visplore.com,Vienna,Software & Analytics,"['visual analytics', 'data', 'interactive graphics']",B2B,5,funding
+14,Circly,circly.at,Vienna,Software & Analytics,"['Machine Learning', 'retail', 'demand forecasting']",B2B,5,funding
+15,World Data Lab,worlddata.io,Vienna,Software & Analytics,"['data', 'forecasting', 'consumer']",B2B,6,funding
+16,Bonrepublic,bonrepublic.com,Vienna,Software & Analytics,"['performance', 'recognition', 'management']",B2B,6,funding
+17,bsurance,bsurance.com,Vienna,FinTech/InsurTech,"['insurance', 'B2C', 'digital']",B2B2C,8,funding
+18,Mostly AI,mostly.ai,Vienna,Software & Analytics,"['privacy', 'big data', 'applications']",B2B,8,funding
+19,Finmatics,finmatics.com,Vienna,Software & Analytics,"['accounting', 'automation', 'software']",B2B,8,funding
+20,APEX Ventures,apex.ventures,Vienna,Software & Analytics,"['venture capital', 'start-ups', 'technology']",B2B,9,funding
+21,Rendity,rendity.com,Vienna,FinTech/InsurTech,"['real estate', 'investments', 'everyone']",B2C,10,funding
+22,24 Sens,24sens.com,Vorarlberg,Health,"['heart rate', 'atrial fibrillation', 'medical diagnosis']",B2B,4,no_funding
+23,F-Technologies,f-technologies.com,Vorarlberg,Hardware,"['business', 'solutions', 'innovation']",B2B,4,no_funding
+24,Gleap,gleap.io,Vorarlberg,Software & Analytics,"['customer feedback', 'tools', 'engage']",B2B,5,no_funding

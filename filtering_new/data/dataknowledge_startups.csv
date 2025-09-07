@@ -1,0 +1,137 @@
+name,city,region,category,business_model,status
+Waterdrop,Vienna,Vienna,AgTech/FoodTech,B2C,no_funding
+influData,Vienna,Vienna,Professional Services,B2B,no_funding
+Skillmill,Vienna,Vienna,Media & Entertainment,platform,no_funding
+Inoqo,Vienna,Vienna,Software & Analytics,B2C,funding
+Simplexx,Vienna,Vienna,Software & Analytics,B2B,no_funding
+Instigo,Vienna,Vienna,Software & Analytics,B2B,no_funding
+Ordito,Vienna,Vienna,Software & Analytics,B2B,no_funding
+Miracl,Vienna,Vienna,Professional Services,B2C,no_funding
+WasItAI,Vienna,Vienna,Software & Analytics,B2B,no_funding
+zone14,Vienna,Vienna,Media & Entertainment,B2B,no_funding
+Autowhale,Vienna,Vienna,Software & Analytics,B2B2C,no_funding
+fynk,Vienna,Vienna,Software & Analytics,B2B,funding
+fairesLeben,Vienna,Vienna,Software & Analytics,B2C,funding
+EscapeCloud,Vienna,Vienna,FinTech/InsurTech,B2B,no_funding
+prop.ID,Vienna,Vienna,PropTech,B2B,no_funding
+WeDress Collective,Vienna,Vienna,Other,B2C,no_funding
+alwritely,Vienna,Vienna,Media & Entertainment,B2C,no_funding
+ImageBiopsy lab,Vienna,Vienna,Software & Analytics,B2B,funding
+WisR,Vienna,Vienna,Other,B2B,funding
+Calm/Storm Ventures,Vienna,Vienna,Health,B2B,no_funding
+LawStar,Vienna,Vienna,Education,B2C,no_funding
+Visplore,Vienna,Vienna,Software & Analytics,B2B,funding
+Branding 5,Vienna,Vienna,Software & Analytics,B2B,no_funding
+SHARK-Bike,Vienna,Vienna,Mobility,B2C,no_funding
+silana,Vienna,Vienna,Hardware,B2B,funding
+VisualSearch,Vienna,Vienna,Professional Services,B2B,no_funding
+Trackbar,Vienna,Vienna,Media & Entertainment,B2B,funding
+notarity,Vienna,Vienna,Software & Analytics,platform,no_funding
+TUSECA,vienna,Vienna,PropTech,B2C,no_funding
+Flinn Comply,Vienna,Vienna,Health,B2B,funding
+kontractory,Vienna,Vienna,Software & Analytics,B2B,no_funding
+FERTILABS,Vienna,Vienna,Health,B2C,no_funding
+Novasign,Vienna,Vienna,Health,B2B,no_funding
+Nexyo,Vienna,Vienna,Software & Analytics,B2B,no_funding
+FUA Investment Club,Vienna,Vienna,FinTech/InsurTech,B2C,no_funding
+Splitbee,Vienna,Vienna,Software & Analytics,B2B,no_funding
+Competenz Lab,Vienna,Vienna,Education,B2C,no_funding
+Point of New,Vienna,Vienna,Professional Services,B2B,no_funding
+Digicust,Vienna,Vienna,Software & Analytics,B2B,funding
+Streemfire,Vienna,Vienna,Software & Analytics,B2C,no_funding
+Justmarkt,Vienna,Vienna,Mobility,B2C,no_funding
+contextflow,Vienna,Vienna,Software & Analytics,B2B,funding
+myBioma,Vienna,Vienna,Health,B2C,no_funding
+HeartBeat.bio,Vienna,Vienna,Health,B2B,funding
+Boolee,Vienna,Vienna,Software & Analytics,B2B,funding
+trive studio,Vienna,Vienna,Software & Analytics,B2B,funding
+tidalbase,Vienna,Vienna,Software & Analytics,B2C,no_funding
+Repeato,Vienna,Vienna,Software & Analytics,B2B,no_funding
+Neolime,Vienna,Vienna,Health,platform,no_funding
+SAN Group,Herzogenburg,Lower Austria,Health,B2B,funding
+Innerspace,Wattens,Tyrol,Software & Analytics,B2B,funding
+STORE ROOM,Brunn Am Gebirge,Lower Austria,Software & Analytics,B2C,no_funding
+triply,Linz,Upper Austria,Software & Analytics,B2B,funding
+blackshark.ai,Graz,Styria,Software & Analytics,B2B,funding
+Testiny,Graz,Styria,Software & Analytics,B2B,no_funding
+Celantur,Linz,Upper Austria,Software & Analytics,B2B,no_funding
+Seasy,Graz,Styria,Professional Services,B2B2C,funding
+Clean Code Software,Raaba,Styria,Professional Services,B2B,no_funding
+Eberhart,Micheldorf,Upper Austria,Software & Analytics,B2B,no_funding
+Leftshift One,Graz,Styria,Software & Analytics,B2B,funding
+Luminous Labs,Graz,Styria,Health,B2C,funding
+SYN TRAC,Bad Goisern,Upper Austria,Mobility,B2B,no_funding
+xuuluux,Salzburg,Salzburg,Software & Analytics,B2B,no_funding
+DealMatrix,Wöllersdorf,Lower Austria,Recruitment,B2B,no_funding
+ARTI,Graz,Styria,Mobility,B2B,no_funding
+Cleanhearing,Spittal an der Drau,Carinthia,Health,B2C,no_funding
+Findustrial,Schörfling,Upper Austria,FinTech/InsurTech,B2B,funding
+devjobs.at,Linz,Upper Austria,Recruitment,B2C,no_funding
+Qapture,Linz,Upper Austria,Software & Analytics,B2B,no_funding
+MADiscover,Innsbruck,Tyrol,Software & Analytics,B2B,funding
+Digital Moulds,Sierning,Upper Austria,Software & Analytics,B2B,no_funding
+Carbon Cleanup,Linz,Upper Austria,Software & Analytics,B2B,funding
+Econutri,Graz,Styria,Health,B2B,funding
+Veroo,Wiener Neudorf,Lower Austria,Software & Analytics,B2B,no_funding
+BirdShades,Leoben,Styria,Professional Services,B2B,no_funding
+SynoptiCons,Klagenfurt,Carinthia,Professional Services,B2B,no_funding
+Quantego,Wiener Neustadt,Lower Austria,Software & Analytics,B2B,no_funding
+Explore with us,Innsbruck,Tyrol,Professional Services,B2C,no_funding
+Audvice,Salzburg,Salzburg,Software & Analytics,B2B,funding
+atmoky,Graz,Styria,Media & Entertainment,B2B,no_funding
+Danube Dynamics,Linz,Upper Austria,Software & Analytics,B2B,funding
+S-A-M Technologies,Perg,Upper Austria,Software & Analytics,B2B,no_funding
+hae.sh,Linz,Upper Austria,Software & Analytics,B2B,funding
+OneTask,Selker,Upper Austria,Software & Analytics,B2C,no_funding
+hello again,Leonding,Upper Austria,Software & Analytics,B2B,no_funding
+Sendance,Linz,Upper Austria,Hardware,B2B,funding
+afreshed,Linz,Upper Austria,Software & Analytics,B2C,funding
+slamstr,Graz,Styria,Software & Analytics,B2C,no_funding
+x.news,Pinkafeld,Burgenland,Software & Analytics,B2B,no_funding
+SHOMUGO,Graz,Styria,e-commerce,B2B2C,no_funding
+Daphos,Linz,Upper Austria,Software & Analytics,B2B,no_funding
+Sola Diagnostics,Zams,Tyrol,Health,B2B,no_funding
+24 Sens,Lustenau,Vorarlberg,Health,B2B,no_funding
+AlbaJet Charter,Krumpendorf,Carinthia,Software & Analytics,platform,no_funding
+Dejure Technologies,Klagenfurt,Carinthia,Software & Analytics,B2B,no_funding
+Green Cloud Nine,Jenbach,Tyrol,Software & Analytics,marketplace,no_funding
+Digando,Dornbirn,Vorarlberg,Professional Services,marketplace,no_funding
+Alveri,Salzburg,Salzburg,Hardware,B2C,no_funding
+Metaloop,Graz,Styria,FinTech/InsurTech,B2B,funding
+Futureweb,Sankt Johann,Tyrol,Professional Services,B2B,no_funding
+Fretello,Linz,Upper Austria,Software & Analytics,B2C,funding
+StreamTV Media,Steyr,Upper Austria,Media & Entertainment,B2C,funding
+CaterMe,Piringsdorf,Burgenland,Professional Services,B2C,no_funding
+Greenwood-Power,Rohrau,Lower Austria,Energy,B2B,funding
+Hololight,Innsbruck,Tyrol,Software & Analytics,B2B,funding
+DeepOpinion,Innsbruck,Tyrol,Software & Analytics,B2B,funding
+F-Technologies,Lustenau,Vorarlberg,Hardware,B2B,no_funding
+Factinsect,Graz,Styria,Professional Services,B2B,no_funding
+Goddard – Discovery,Hagenberg,Upper Austria,Software & Analytics,platform,no_funding
+Arkeon Biotechnologies,Tulln,Lower Austria,Health,B2B,funding
+HEYRISE,Wels,Upper Austria,Professional Services,B2B,no_funding
+Schrott24,Graz,Styria,Software & Analytics,B2B,funding
+Joinpoints,Graz,Styria,Software & Analytics,B2B,funding
+MXR Tactics,Kufstein,Tyrol,Software & Analytics,B2B,no_funding
+personly,Graz,Styria,Software & Analytics,B2C,no_funding
+True Live,Wels,Upper Austria,Software & Analytics,B2B,no_funding
+Finslice,Linz,Upper Austria,FinTech/InsurTech,platform,no_funding
+Windpuls,Linz,Upper Austria,Hardware,B2B,no_funding
+WEBCP,Linz,Upper Austria,Professional Services,B2B,no_funding
+Mursall Active Coating,Oberalm,Salzburg,Health,B2B,no_funding
+Krew,Lenzing,Upper Austria,Software & Analytics,B2C,no_funding
+DreamPetsAI,Eglau,Upper Austria,Software & Analytics,B2C,no_funding
+Lunixo,Tiefgraben,Upper Austria,Software & Analytics,B2B,no_funding
+NOVEM Gold,Linz,Upper Austria,FinTech/InsurTech,B2C,no_funding
+Podpally,Tyrol,Tyrol,Software & Analytics,B2B,no_funding
+Testify,Linz,Upper Austria,Software & Analytics,B2B,no_funding
+Integrysign,Wiener Neustadt,Lower Austria,Software & Analytics,B2B,no_funding
+Redem,Linz,Upper Austria,Software & Analytics,B2B,no_funding
+Ahoy Kapptn!,Linz,Upper Austria,Software & Analytics,B2B,no_funding
+stomey,Wattens,Tyrol,Software & Analytics,B2B,no_funding
+LAMIE,Linz,Upper Austria,FinTech/InsurTech,B2B2C,no_funding
+Coders.Bay,Linz,Upper Austria,Software & Analytics,B2C,no_funding
+OE Service,Klagenfurt,Carinthia,Software & Analytics,B2B,no_funding
+Sarcura,Klosterneuburg,Lower Austria,Health,B2B,funding
+Chatcloud,Saalfelden,Salzburg,Software & Analytics,B2B,no_funding
+TeamEcho,Linz,Upper Austria,Software & Analytics,B2B,funding
