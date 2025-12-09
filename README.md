@@ -57,4 +57,4 @@ code/
 
 ## Documentation
 
-See `project_overview.pdf` for detailed methodology, findings, and visualizations.
+See `project_overview.pdf` and `presentation.pdf` for detailed methodology, findings, and visualizations.
